@@ -4,9 +4,9 @@
     
    
 
-     var foods = ["Pizza", "Hamburger", "Hot Dogs", "Coconut","Grape Fruit"]
-     var movies = ["Iron Man","Spider Man","Jurassic Park","Titanic","Toy Story"]
-     var places = ["SFO","Boston","Denver","Tuticorin","LA"]
+     var foods = ["Pizza", "Hamburger", "Hot Dogs", "Coconut","Grape Fruit"] //original order
+     var movies = ["Iron Man","Spider Man","Jurassic Park","Titanic","Toy Story"] //Alphabetical order
+     var places = ["SFO","Boston","Denver","Tuticorin","LA"]  //reverse order
     
     
     

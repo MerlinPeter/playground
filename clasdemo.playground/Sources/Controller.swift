@@ -22,7 +22,7 @@
         //print the question type
         print ("What are your favourite " + input + " ? ")
         
-        
+        self.questionType = input;
        // Does the video show that the printFavorites function gets the original lists of favorites from an instance of the Model class? (3 points)
         //variable myModel based on model class , printFavourites function gets its input from the model array instance variavle
         let myModel = Model()
@@ -53,7 +53,7 @@
               break
         case .Ascending:
              // sort the array, default order is ascending
-            inputArray = inputArray.sort();
+            inputArray = inputArray.sort()
         case .LestFav:
              //reverse the array
              inputArray = inputArray.reverse()

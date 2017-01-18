@@ -10,9 +10,9 @@ var myController = Controller()
 
 myController.askQuestion("foods")
 
-myController.askQuestion("movies")
+//myController.askQuestion("movies")
 
-myController.askQuestion("places")
+//myController.askQuestion("places")
 
 
 /* 
